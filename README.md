@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Gabin
 
-<!--
-**GGab1/GGab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diplomé d'un BUT Métiers du Multimédia et de l’Internet (MMI)  
+🎯 Candidat en Licence 3 MIAGE (systèmes d’information & data)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Profil
+
+Je développe des applications web en mettant l’accent sur la structuration des données, la logique métier et la qualité du code.
+
+Je souhaite évoluer vers les systèmes d’information, la gestion de données et le pilotage de projets numériques.
+
+---
+
+## 🛠️ Compétences
+
+### 💻 Développement
+HTML • CSS • JavaScript • TypeScript  
+React • Vue • Symfony • PHP • Python • Java  
+
+### 🧠 Systèmes & Data
+SQL • Modélisation relationnelle  
+API REST  
+Structuration des données  
+
+### ⚙️ Outils
+Git • GitHub • CI/CD  
+Jira • Azure DevOps  
+
+---
+
+## 📂 Projets clés
+
+### 🛒 API E-commerce (projet MIAGE)
+👉 API REST avec gestion produits et commandes  
+👉 Base de données SQL  
+👉 Architecture MVC  
+
+### 💼 Portfolio Web
+👉 Interface responsive  
+👉 UX/UI optimisée  
+👉 Structuration front-end  
+
+---
+
+## 🎯 Objectif
+
+Intégrer une Licence MIAGE puis poursuivre en Master systèmes d’information et data, avec une spécialisation progressive en intelligence artificielle appliquée.
+
+---
+
+## 📫 Contact
+
+- LinkedIn : https://www.linkedin.com/in/gabin-gu%C3%A9rin-995989258/
+- Email : gabin.guerin1@gmail.com
