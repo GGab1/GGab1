@@ -7,7 +7,7 @@
 
 ## ⚡ Profil
 
-Je développe des applications web en mettant l’accent sur la structuration des données, la logique métier et la qualité du code.
+Je développe des applications en mettant l’accent sur la structuration des systèmes d'information, la gestion des données, la logique métier et la qualité du code.
 
 Je souhaite évoluer vers les systèmes d’information, la gestion de données et le pilotage de projets numériques.
 
